@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 30/08/2021, 23:04:30
+    Author     : bruno
+*/
+/*#btn_cad_cliente{
+    color: #ff3333;
+}*/
+
+#btn_cad_cliente:hover{
+    
+    background-color: greenyellow;
+    transform: translateX(20%);
+    transition-delay:0.2s;
+    font: white;
+}
+
+
+
+#btn_cad_venda:hover{
+    
+    background-color: blueviolet;
+    transform: translateY(20%);
+    transition-delay: 0.2;
+    font: white;
+}
+

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <script type="text/javascript" src ="assets/scripts/main.js"></script>
+        
+        
+        <title>Sistema de Vendas - Tela de Login</title>
+<!--        <link rel="stylesheet" type="text/css" href="assets/login.css">-->
+        <link rel="stylesheet" type="text/css" href="assets/loginnovo.css">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    
+    <body class="main" onload="welcomeMsg();">
+        <div id ="index">
+            <form action="Autenticar" method="POST">
+                <h1 id="PagName">Basic Smart 1.0</h1><br>
+                <div id ="lblerror"></div>
+                <div class="t" id="tt"><input type="text" name="username" class ="log" id="inputname" placeholder="Usuário"  onmousemove="setUserMsg();" onmouseout="backToUser();"><br></div>
+                <div class="t" id="tb"><input type="password" name="userpass" class ="log" id="bottbn" placeholder="Senha" onmousemove="setPasswordMsg();" onmouseout="backToPassword();"><br></div>
+                <br>
+                <button class="btlogin" type="submit" id ="btlogin" name="Login" onclick="validateButton();">Login</button>
+            </form>
+            <div id="comp">
+                <a href="esqueci-senha.jsp">Esqueci a minha senha</a>
+                <a href="cadastro-usuario.jsp">Cadastro de Usuário</a>
+            </div>
+            
+        </div>  
+    </body>
+</html>

@@ -1,0 +1,145 @@
+.img-lista{
+    margin:0px;
+    padding: 0px;
+    border: 0px;
+    border-radius: 0% 0% 0% 0%;
+    border-radius: 50%;
+    border-color: blue;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    margin-top: 45px;
+    margin-bottom: -45px;
+}
+.in-prod{
+    margin:0px;
+    padding: 0px;
+    margin-left: 21px;
+    margin-bottom: 60px;
+    border-radius: 25px;
+    width: 90px;
+    height: 45px;
+    font-size: 20px;
+    text-align: center;
+}
+.bt-prod-bt{
+    margin:0px;
+    padding: 0px;
+    margin-left: 30px;
+    background-color: bisque;
+    width: 140px;
+    height: 70px;
+    border-radius: 25px;
+}
+.prod{
+    margin:0px;
+    padding: 0px;
+    border: 0px;
+    background-color: darkcyan;
+    margin-bottom: 20px;
+    align-content: center;
+    align-items: center;
+    max-width: 1800px;
+    max-height: 200px;
+    box-shadow: 5px 5px 10px darkcyan;
+    -webkit-box-shadow: 5px 5px 10px darkcyan;
+    -moz-box-shadow: 5px 5px 10px darkcyan;
+}
+.id-prod{
+    margin:0px;
+    padding: 0px;
+    border: 0px;
+    background-color: red;
+    font-size: 20px;
+    color: red;
+}
+.bt-prod-ops{
+    margin:0px;
+    padding: 0px;
+    border: 0px;
+}
+.vlrvld-prod{
+    margin:0px;
+    padding:0px;
+}
+.cc-prod{
+    border-radius: 25px;
+    margin:0px;
+    padding: 0px;
+    margin-left: 21px;
+    margin-bottom: 60px;
+    border-radius: 25px;
+    width: 140px;
+    height: 70px;
+    font-size: 20px;
+}
+#iddprod{
+    width: 45px;
+}
+#img-pesquisa{
+    border-radius: 50%;
+    width:40px;
+    height:40px;
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+}
+#btpesquisarproduto{
+    border-radius: 50%;
+    width:45px;
+    height:45px;
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+}
+#pesquisarproduto{
+    margin:0px;
+    padding: 0px;
+    font-size: 38px;
+    border-radius: 25px;
+    margin-left: 100px;
+}
+#selectfil{
+    margin:0px;
+    padding: 0px;
+    font-size: 38px;
+    border-radius: 25px;
+    margin-left:2px;
+    text-align: center;
+}
+#buscapeloproduto{
+    text-align: center;
+    font-size: 38px;
+}
+#bt-prod-btn{
+    margin-left: 1400px;
+    border-radius: 15px;
+    font-size: 38px;
+    background-color: greenyellow;
+}
+#tit{
+    font-size: 50px;
+    margin-left: 30px;
+    font-style: italic;
+}
+#topo{
+    margin: 0px;
+    margin-top: -40px;
+    margin-bottom: 0px;
+    padding: 0px;
+    border: 0px;
+    background-color: darkcyan;
+    box-shadow: 5px 5px 10px darkcyan;
+    -webkit-box-shadow: 5px 5px 10px darkcyan;
+    -moz-box-shadow: 5px 5px 10px darkcyan;
+}
+#bt-ed{
+    font-size: 30px;
+    background-color: cyan;
+}
+#bt-re{
+    font-size: 30px;
+    background-color: red;
+    color: white;
+}
+

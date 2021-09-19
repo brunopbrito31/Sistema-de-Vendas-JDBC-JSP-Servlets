@@ -1,0 +1,200 @@
+.produto:hover{
+    transform:scale(107%);
+}
+
+
+
+.produto{
+    border-style: dashed;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    background-color:white;
+    max-width: max-content;
+    max-height: max-content;
+    font-style: italic;
+    font-size: medium;
+    box-shadow: 5px 5px 10px blue;
+    -webkit-box-shadow: 5px 5px 10px blue;
+    -moz-box-shadow: 5px 5px 10px blue;
+}
+
+.imgproduto{
+    border-radius: 0% 0% 0% 0%;
+    padding: 10px;
+    width: 300px;
+    height: 300px;
+    margin:0px;
+}
+body{
+    background-color:white;
+}
+
+.botao-produto{
+    border-radius:60% 60% 0% 0%;
+    background-color: black;
+    color:white;
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    margin-left: 125px;
+    opacity: 120%;
+}
+
+.nomeproduto{
+    color:black;
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    margin-left: 115px;
+}
+
+.precoproduto{
+    color:black;
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    margin-left: 100px;
+}
+
+.quantidadeproduto{
+    color:black;
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    margin-left: 100px;
+}
+
+.select-produto{
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    -webkit-text-stroke: 0.2px #FFF;
+    
+}
+
+#menu-topo{
+    border-radius:15px;
+    background-color: darkred;
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    
+}
+
+.botao-categoria:hover{
+    background-color:green;
+    transform: scale(115%);
+}
+
+.botao-categoria{
+    width:376px;
+    height:120px;
+    font-size: 60px;
+    
+    background-color: darkred;
+    border-style:double;
+    border-radius: 15px 15px 15px 15px;
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+}
+
+#img-pesquisa{
+    border-radius: 50%;
+    width:40px;
+    height:40px;
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+}
+
+#btpesquisarproduto{
+    border-radius: 50%;
+    width:45px;
+    height:45px;
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+}
+
+#barrapesquisaprodutos{
+    border-radius:15px;
+    background-color: darkred;
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+}
+#pesquisarproduto{
+    border-radius:15px;
+    font-size: 45px;
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    text-align: center;
+    margin-left: 150px;
+}
+
+
+#buscapeloproduto{
+    margin-left: auto;
+    margin-right: auto;
+    width: 65em
+}
+
+#logo-empresarial{
+    border-radius: 20% 20% 0% 0%;
+    padding: 10px;
+    width: 300px;
+    height: 300px;
+}
+
+#slogam-empresarial{
+    font-size: 90px;
+}
+
+.top-empresa{
+    margin-left: 1700px;
+    margin-right: -30px;
+}
+
+#tableprodutos{
+    margin-left: 105px;
+}
+
+#tableprodutos:hover{
+    transform: translateX(20px);
+}
+
+.bt-pt{
+    border-radius:50%;
+}
+
+#top{
+    background-color:blue;
+    color:white;
+    border:0px;
+    text-align: center;
+    font-size: 45px;
+    box-shadow: 5px 5px 10px blue;
+    -webkit-box-shadow: 5px 5px 10px blue;
+    -moz-box-shadow: 5px 5px 10px blue;
+}
+
+.btPag{
+    border-radius:50%;
+    box-shadow: 5px 5px 10px blue;
+    -webkit-box-shadow: 5px 5px 10px blue;
+    -moz-box-shadow: 5px 5px 10px blue;
+}
+
+.btPag:hover{
+    background-color: blue;
+}
+
+#cod-bar-labl{
+    margin-left: 110px;
+}
+
+
+

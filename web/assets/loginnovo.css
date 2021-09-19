@@ -1,0 +1,134 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 07/09/2021, 03:18:01
+    Author     : bruno
+*/
+
+body{
+    background-color:darkmagenta;
+}
+
+#index{
+    border-radius: 25px;
+    background-color: white;
+    max-width: 500px;
+    max-height: 800px;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    margin-top: 370px;
+    margin-left: 670px;
+    box-shadow: 5px 5px 10px blue;
+    -webkit-box-shadow: 5px 5px 10px blue;
+    -moz-box-shadow: 5px 5px 10px blue;
+}
+
+#lblerror{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    margin-left: 160px;
+    color:red;
+}
+
+.log{
+    text-align: center;
+    border-bottom-color: darkmagenta;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 25px;
+    padding: 0px;
+    margin: 0px;
+    font-size: 30px;
+    box-shadow: #000 2px 2px 1px;
+    background-color: darkmagenta;
+    box-shadow: 5px 5px 10px blue;
+    -webkit-box-shadow: 5px 5px 10px blue;
+    -moz-box-shadow: 5px 5px 10px blue;
+    color: white;
+}
+
+.log:hover{
+    background-color: darkmagenta;
+    box-shadow: 5px 5px 10px blue;
+    -webkit-box-shadow: 5px 5px 10px blue;
+    -moz-box-shadow: 5px 5px 10px blue;
+}
+
+#tbuser{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+#btlogin{
+    border-radius: 25px;
+    width: 240px;
+    height: 50px;
+    font-size: 40px;
+    margin-left: 130px;
+    background-color: darkmagenta;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: white;
+    box-shadow: 5px 5px 10px blue;
+    -webkit-box-shadow: 5px 5px 10px blue;
+    -moz-box-shadow: 5px 5px 10px blue;
+    text-shadow: 0.1em 0.1em 0.2em blue;
+}
+
+#btlogin:hover{
+    resize: 120%;
+    background-color: blue;
+    box-shadow: 5px 5px 10px darkmagenta;
+    -webkit-box-shadow: 5px 5px 10px darkmagenta;
+    -moz-box-shadow: 5px 5px 10px darkmagenta;
+}
+
+.linha{
+    font-style: italic;
+    font-size: 30px;
+}
+
+#PagName{
+    text-shadow: 0.1em 0.1em 0.2em blue;
+    color: darkmagenta;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    font-size: 60px;
+    margin-left: 45px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#comp{
+    margin-left: 180px;
+    color: darkmagenta;
+    font-style: italic;
+}
+
+.lblid{
+    font-style: italic;
+    color: darkmagenta;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.t{
+    margin-left: 60px;
+}
+
+#tb{
+    margin-top: 20px;
+}
+
+input::placeholder {
+    opacity: 0.5;
+    color: white;
+    text-align: center;
+}

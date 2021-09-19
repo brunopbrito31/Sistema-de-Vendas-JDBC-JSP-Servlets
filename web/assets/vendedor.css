@@ -1,0 +1,56 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 07/09/2021, 05:56:13
+    Author     : bruno
+*/
+
+
+body{
+    background-color: white;
+}
+
+#top-menu{
+    color: white;
+    text-align: center;
+    background-color: blue;
+    max-height: 100%;
+    max-width: 100%;
+    margin-bottom: 85px;
+    box-shadow: 5px 5px 10px blue;
+    -webkit-box-shadow: 5px 5px 10px blue;
+    -moz-box-shadow: 5px 5px 10px blue;
+}
+
+
+.btvendedor{
+    border-radius: 50px 50px 50px 50px;
+    font-size: 30px;
+    margin:0px;
+    padding:0px;
+    margin-left: 640px;
+    width: 600px;
+    height: 150px;
+    box-shadow: 5px 5px 10px blue;
+    -webkit-box-shadow: 5px 5px 10px blue;
+    -moz-box-shadow: 5px 5px 10px blue;
+}
+
+.btvendedor:hover{
+    background-color: blue;
+}
+
+
+.botoesdovendedor{
+    margin-top: 100px;
+    margin:0px;
+    padding:0px;
+    margin-left: 90px; 
+}
+
+body{
+    background-color: whitesmoke;
+}
